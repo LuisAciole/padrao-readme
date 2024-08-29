@@ -1,5 +1,5 @@
 <p width="100%" align="center">
-    <img src="./image/logo nasa.png" width="300px">
+    <img src="./image/GitHub-logo.png" width="300px">
 </p>
 
 <br>
